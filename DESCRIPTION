@@ -2,8 +2,8 @@ Package: testspace444
 Type: Package
 Title: Package playground to explore and learn.
 Version: 0.1.0
-Author: ETA444
-Maintainer: ETA444 <georgedreemer@proton.me>
+Author: George Dreemer (ETA444)
+Maintainer: ETA444 <penpal@dreemcorp.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 Encoding: UTF-8

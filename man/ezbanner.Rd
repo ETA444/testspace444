@@ -15,7 +15,7 @@ ezbanner(txt, ftype, bChar, s)
   \item{txt}{String that will be made into a comment banner.}
   \item{ftype}{Takes a value of 1 or 2 (default: 1). This changes the appearance of the banner.}
   \item{bChar}{You can specify a character (e.g, ":","+"...) that will be used to construct the banner of type 2 (ftype = 2). Banner of type 1 only uses "#".}
-  \item{s}{Makes banner "snug" if True; non-snug if False.}
+  \item{s}{Makes banner "snug" if True; non-snug if False.}sdf
 }
 \details{
 (!) All values have defaults aside from txt.
