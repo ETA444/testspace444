@@ -1,4 +1,4 @@
-b <- function(txt, ftype, bChar, s) {
+ezbanner <- function(txt, ftype, bChar, s) {
 
   #if bchar was not specified it's a default value I am using in this doc
   if(missing(bChar)) {

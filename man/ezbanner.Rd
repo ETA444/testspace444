@@ -21,6 +21,8 @@ ezbanner(txt, ftype, bChar, s)
 (!) All values have defaults aside from txt.
 
 (!) This function is based on the amazing package bannerCommenter by Venables (2021).
+
+(!) We utilize "write_clip()" from clipr package by Lincoln (2022) to copy the banner to the clipboard.
 }
 \value{
 %%  ~Describe the value returned
@@ -30,6 +32,9 @@ ezbanner(txt, ftype, bChar, s)
 %% ...
 }
 \references{
+ Lincoln M (2022). _clipr: Read and Write from the System Clipboard_. R package version
+  0.8.0, <https://CRAN.R-project.org/package=clipr>.
+
   Venables B (2021). _bannerCommenter: Make Banner Comments with a Consistent Format_. R
   package version 1.0.0, <https://CRAN.R-project.org/package=bannerCommenter>.
 }
